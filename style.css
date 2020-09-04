@@ -1,0 +1,36 @@
+button{
+    height: 120px;
+    width: 120px;
+    border-radius: 60px;
+    font-size: 80px;
+    border: #ff7261 solid 5px;
+    font-family: Wingdings;
+
+}
+
+button:hover{
+    border: #ff2107 dashed 5px;
+
+}
+
+h1{
+    text-align: center;
+    font-size: 100px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-family: "Segoe Print", sans-serif;
+}
+table {
+    margin: auto;
+}
+
+#button_new{
+    width:480px;
+    margin-top: 1px;
+    font-family: Calibri;
+}
+
+body {
+    text-align: center;
+    background: #ff907f;
+}
